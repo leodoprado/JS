@@ -1,2 +1,2 @@
 ## JavaScript
-### Repositório de estudo
+### Repositório de estudo JavaScript
