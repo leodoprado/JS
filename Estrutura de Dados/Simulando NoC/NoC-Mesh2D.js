@@ -1,6 +1,6 @@
-var data = require('./CenariosMesh.json');
+const data = require('./CenariosMesh.json');
 
-var sizeX, sizeY, targetX, targetY, sourceX, sourceY, i, DifX, DifY, a, cont=0;
+var targetX, targetY, sourceX, sourceY, i, DifX, DifY, a, cont=0;
 
 var packages = data.Packages;
 
